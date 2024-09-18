@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.md",
+                "file": "Superset.md",
                 "mode": "source",
                 "source": false
               }
@@ -320,7 +320,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.md",
+                "file": "Superset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,7 +337,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React.md",
+                "file": "Superset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -360,7 +360,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.md"
+                "file": "Superset.md"
               }
             }
           }
@@ -384,6 +384,7 @@
   },
   "active": "d5f1763b4cc1d50a",
   "lastOpenFiles": [
+    "React.md",
     "Untitled.md",
     "Superset.md",
     "Yandex maps.md",
@@ -393,7 +394,6 @@
     "Релизы.md",
     "Фича с переключением скользящей функции.md",
     "Закрепленные фильтры.md",
-    "React.md",
     "Pasted image 20240815103858.png",
     "Pasted image 20240815103524.png",
     "Хук render component.md",
