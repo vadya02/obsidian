@@ -247,14 +247,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Superset.md",
+                "file": "React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0de254bb8362c9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "waterfall.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -320,7 +332,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Superset.md",
+                "file": "waterfall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,7 +349,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Superset.md",
+                "file": "waterfall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -360,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Superset.md"
+                "file": "waterfall.md"
               }
             }
           }
@@ -382,11 +394,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5f1763b4cc1d50a",
+  "active": "c0de254bb8362c9e",
   "lastOpenFiles": [
     "React.md",
-    "Untitled.md",
+    "waterfall.md",
+    "Pasted image 20240815112114.png",
     "Superset.md",
+    "Untitled.md",
     "Yandex maps.md",
     "2024-09-18.md",
     "Фича с переключением вида графиков.md",
@@ -404,7 +418,6 @@
     "plugins/BUG с date control.md",
     "Problems/Problems.md",
     "Pasted image 20240815103709.png",
-    "Pasted image 20240815112114.png",
     "1C.md",
     "Фича с яндекс картами.md",
     "images",
