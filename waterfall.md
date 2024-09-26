@@ -1,2 +1,4 @@
-
-График нужен для того что
+extraFormData: {
+filters: [],
+filterState:{},
+}
