@@ -13,3 +13,12 @@ filterState:{},
 ![[Pasted image 20240927133855.png]]
 
 ![[Pasted image 20240927133933.png]]
+
+
+![[Pasted image 20240927151336.png]]
+
+![[Pasted image 20240927151239.png]]
+
+![[Pasted image 20240927151252.png]]
+
+![[Pasted image 20240927151305.png]]
