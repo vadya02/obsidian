@@ -102,16 +102,6 @@
             }
           },
           {
-            "id": "646dfd40c45696f9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Untitled/Pasted image 20240712083933.png"
-              }
-            }
-          },
-          {
             "id": "ce1d71b1d8f09f82",
             "type": "leaf",
             "state": {
@@ -266,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -332,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "waterfall.md",
+                "file": "Untitled/Pasted image 20240712083933.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -349,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "waterfall.md",
+                "file": "Untitled/Pasted image 20240712083933.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -372,7 +362,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "waterfall.md"
+                "file": "Untitled/Pasted image 20240712083933.png"
               }
             }
           }
@@ -394,8 +384,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0de254bb8362c9e",
+  "floating": {
+    "id": "3f4ad277c9011246",
+    "type": "floating",
+    "children": [
+      {
+        "id": "98829f10d2415045",
+        "type": "window",
+        "children": [
+          {
+            "id": "bf519ae357d1aa9f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "646dfd40c45696f9",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Untitled/Pasted image 20240712083933.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 903,
+        "y": 115,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "646dfd40c45696f9",
   "lastOpenFiles": [
+    "waterfall.md",
     "Pasted image 20240927151336.png",
     "Pasted image 20240927151305.png",
     "Pasted image 20240927151252.png",
@@ -403,7 +429,6 @@
     "Pasted image 20240927133933.png",
     "Pasted image 20240927133855.png",
     "React.md",
-    "waterfall.md",
     "Pasted image 20240815112114.png",
     "Superset.md",
     "Untitled.md",
@@ -419,7 +444,6 @@
     "Хук render component.md",
     "Таски.md",
     "Pasted image 20240815105256.png",
-    "Pasted image 20240815105246.png",
     "plugins/Stack feature.md",
     "plugins/BUG с date control.md",
     "Problems/Problems.md",
