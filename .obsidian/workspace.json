@@ -16,7 +16,9 @@
                 "file": "Untitled/Untitled.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Problems/Problems.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Problems"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Problems/Problems.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Problems"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Untitled/Untitled.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "Закрепленные фильтры.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Закрепленные фильтры"
             }
           },
           {
@@ -76,7 +86,9 @@
                 "file": "Закрепленные фильтры.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Закрепленные фильтры"
             }
           },
           {
@@ -88,7 +100,9 @@
                 "file": "Untitled/Untitled.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -98,7 +112,9 @@
               "type": "image",
               "state": {
                 "file": "Untitled/Pasted image 20240712083928.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240712083928"
             }
           },
           {
@@ -108,7 +124,9 @@
               "type": "image",
               "state": {
                 "file": "Untitled/Pasted image 20240712084004.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240712084004"
             }
           },
           {
@@ -120,7 +138,9 @@
                 "file": "Yandex maps.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Yandex maps"
             }
           },
           {
@@ -132,7 +152,9 @@
                 "file": "React.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "React"
             }
           },
           {
@@ -144,7 +166,9 @@
                 "file": "Yandex maps.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Yandex maps"
             }
           },
           {
@@ -156,7 +180,9 @@
                 "file": "Yandex maps.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Yandex maps"
             }
           },
           {
@@ -168,7 +194,9 @@
                 "file": "Yandex maps.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Yandex maps"
             }
           },
           {
@@ -180,7 +208,9 @@
                 "file": "plugins/Stack feature.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Stack feature"
             }
           },
           {
@@ -192,7 +222,9 @@
                 "file": "Хук render component.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Хук render component"
             }
           },
           {
@@ -204,7 +236,9 @@
                 "file": "Yandex maps.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Yandex maps"
             }
           },
           {
@@ -216,7 +250,9 @@
                 "file": "Yandex maps.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Yandex maps"
             }
           },
           {
@@ -228,7 +264,9 @@
                 "file": "Фича с переключением вида графиков.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Фича с переключением вида графиков"
             }
           },
           {
@@ -240,7 +278,9 @@
                 "file": "React.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "React"
             }
           },
           {
@@ -252,7 +292,9 @@
                 "file": "waterfall.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "waterfall"
             }
           },
           {
@@ -261,10 +303,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "waterfall.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "waterfall"
             }
           }
         ],
@@ -288,7 +332,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -303,7 +349,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -311,7 +359,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -334,7 +384,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "2024-09-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -342,7 +392,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-09-18"
             }
           },
           {
@@ -351,10 +403,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "2024-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-09-18"
             }
           },
           {
@@ -365,7 +419,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -374,8 +430,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
-              }
+                "file": "2024-09-18.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-09-18"
             }
           }
         ]
@@ -398,35 +456,34 @@
   },
   "active": "cae5b7ce635c6cbe",
   "lastOpenFiles": [
-    "Pasted image 20241002101258.png",
+    "2024-09-18.md",
+    "Problems/Problems.md",
+    "1C.md",
+    "Yandex maps.md",
     "waterfall.md",
     "Untitled 1.md",
-    "Untitled/Pasted image 20240712083933.png",
-    "Pasted image 20240927151336.png",
-    "Pasted image 20240927151305.png",
-    "Pasted image 20240927151252.png",
-    "Pasted image 20240927151239.png",
-    "Pasted image 20240927133933.png",
-    "Pasted image 20240927133855.png",
-    "React.md",
-    "Pasted image 20240815112114.png",
-    "Superset.md",
     "Untitled.md",
-    "Yandex maps.md",
-    "2024-09-18.md",
-    "Фича с переключением вида графиков.md",
-    "Изменение параметров formData.md",
-    "Релизы.md",
-    "Фича с переключением скользящей функции.md",
-    "Закрепленные фильтры.md",
+    "Superset.md",
+    "React.md",
+    "Pasted image 20241002101258.png",
+    "Pasted image 20240927151305.png",
+    "Pasted image 20240927151239.png",
+    "Pasted image 20240815105256.png",
     "Pasted image 20240815103858.png",
     "Pasted image 20240815103524.png",
     "Хук render component.md",
+    "Фича с переключением скользящей функции.md",
+    "Фича с переключением вида графиков.md",
     "Таски.md",
-    "plugins/Stack feature.md",
+    "Релизы.md",
+    "Изменение параметров formData.md",
+    "Закрепленные фильтры.md",
     "plugins/BUG с date control.md",
-    "Problems/Problems.md",
-    "1C.md",
+    "plugins/Stack feature.md",
+    "Untitled/Pasted image 20240712083933.png",
+    "Pasted image 20240927151336.png",
+    "Pasted image 20240927151252.png",
+    "Pasted image 20240927133933.png",
     "Фича с яндекс картами.md",
     "images",
     "Untitled.canvas",
