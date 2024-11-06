@@ -301,12 +301,17 @@
             "id": "cae5b7ce635c6cbe",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Pasted image 20240927133855.png"
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240927133855"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -464,14 +469,19 @@
   },
   "active": "cae5b7ce635c6cbe",
   "lastOpenFiles": [
+    "Untitled.md",
+    "React.md",
+    "Pasted image 20240815103709.png",
+    "Pasted image 20240815103858.png",
+    "Pasted image 20240815105246.png",
+    "Pasted image 20240815112114.png",
+    "Pasted image 20240815105256.png",
     "Yandex maps.md",
+    "Pasted image 20240927133855.png",
     "Pasted image 20240927133933.png",
     "Pasted image 20240927151239.png",
     "Pasted image 20240927151336.png",
     "Pasted image 20240927151305.png",
-    "Pasted image 20240927151252.png",
-    "Pasted image 20240815112114.png",
-    "Pasted image 20240815103524.png",
     "Untitled 1.md",
     "Untitled 1",
     "2024-11-06.md",
@@ -481,12 +491,7 @@
     "2024-09-18.md",
     "Problems/Problems.md",
     "1C.md",
-    "Untitled.md",
     "Superset.md",
-    "React.md",
-    "Pasted image 20241002101258.png",
-    "Pasted image 20240815105256.png",
-    "Pasted image 20240815103858.png",
     "Хук render component.md",
     "Фича с переключением скользящей функции.md",
     "Фича с переключением вида графиков.md",
