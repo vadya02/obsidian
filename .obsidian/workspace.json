@@ -306,7 +306,7 @@
                 "file": "Untitled.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 0,
+                  "y": -93,
                   "zoom": 0
                 }
               },
@@ -433,10 +433,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-18.md"
+                "file": "Untitled.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-09-18"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -450,11 +450,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
