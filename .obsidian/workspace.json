@@ -313,9 +313,37 @@
               "icon": "lucide-layout-dashboard",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "404f8e484685d3aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yandex maps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yandex maps"
+            }
+          },
+          {
+            "id": "bb84164a8ecdeb37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Group by table.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Group by table"
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -371,7 +399,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 217.5
   },
   "right": {
     "id": "3f197bbd0910ca4f",
@@ -433,10 +461,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Group by table.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Group by table"
             }
           },
           {
@@ -467,40 +495,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cae5b7ce635c6cbe",
+  "active": "bb84164a8ecdeb37",
   "lastOpenFiles": [
+    "Yandex maps.md",
+    "Group by table.md",
+    "waterfall.md",
+    "Untitled 1.md",
+    "1C.md",
     "Untitled.md",
+    "plugins/Stack feature.md",
+    "Problems/Problems.md",
+    "2024-09-18.md",
+    "2024-11-06.md",
+    "Закрепленные фильтры.md",
+    "Изменение параметров formData.md",
+    "Таски.md",
+    "Релизы.md",
     "React.md",
+    "Superset.md",
     "Pasted image 20240815103709.png",
     "Pasted image 20240815103858.png",
     "Pasted image 20240815105246.png",
     "Pasted image 20240815112114.png",
     "Pasted image 20240815105256.png",
-    "Yandex maps.md",
     "Pasted image 20240927133855.png",
     "Pasted image 20240927133933.png",
     "Pasted image 20240927151239.png",
     "Pasted image 20240927151336.png",
     "Pasted image 20240927151305.png",
-    "Untitled 1.md",
     "Untitled 1",
-    "2024-11-06.md",
     "Untitled.canvas",
     "BUGS.md",
-    "waterfall.md",
-    "2024-09-18.md",
-    "Problems/Problems.md",
-    "1C.md",
-    "Superset.md",
     "Хук render component.md",
     "Фича с переключением скользящей функции.md",
     "Фича с переключением вида графиков.md",
-    "Таски.md",
-    "Релизы.md",
-    "Изменение параметров formData.md",
-    "Закрепленные фильтры.md",
     "plugins/BUG с date control.md",
-    "plugins/Stack feature.md",
     "Фича с яндекс картами.md",
     "images",
     "2024-07-25.md",
