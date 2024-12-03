@@ -355,9 +355,33 @@
               "icon": "lucide-file",
               "title": "Untitled 2"
             }
+          },
+          {
+            "id": "467a7fd21f5c3099",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
+            "id": "be2ec7972cb2db77",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -474,11 +498,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled 2.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Untitled 2"
+              "title": "Outline"
             }
           },
           {
@@ -509,7 +531,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa09a2bdbad6231d",
+  "active": "be2ec7972cb2db77",
   "lastOpenFiles": [
     "Group by table.md",
     "Untitled 2.md",
@@ -543,16 +565,4 @@
     "Untitled.canvas",
     "BUGS.md",
     "Хук render component.md",
-    "Фича с переключением скользящей функции.md",
-    "Фича с переключением вида графиков.md",
-    "plugins/BUG с date control.md",
-    "Фича с яндекс картами.md",
-    "images",
-    "2024-07-25.md",
-    "plugins",
-    "Untitled/Untitled.md",
-    "Untitled",
-    "superset_config_docker.py",
-    "Problems"
-  ]
-}
+    "Фича с переключением скользяще
