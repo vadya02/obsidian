@@ -372,12 +372,14 @@
             "id": "be2ec7972cb2db77",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Yandex maps.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Yandex maps"
             }
           }
         ],
@@ -412,7 +414,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -433,7 +435,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -498,9 +501,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Yandex maps.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Yandex maps"
             }
           },
           {
@@ -533,25 +538,31 @@
   },
   "active": "be2ec7972cb2db77",
   "lastOpenFiles": [
+    "Фича с переключением скользящей функции.md",
+    "Хук render component.md",
+    "BUGS.md",
     "Group by table.md",
-    "Untitled 2.md",
-    "Untitled 2",
-    "Pasted image 20241113151547.png",
     "Yandex maps.md",
-    "waterfall.md",
+    "Untitled 2.md",
     "Untitled 1.md",
-    "1C.md",
+    "Untitled.canvas",
     "Untitled.md",
+    "Superset.md",
+    "React.md",
     "plugins/Stack feature.md",
+    "plugins/BUG с date control.md",
     "Problems/Problems.md",
-    "2024-09-18.md",
     "2024-11-06.md",
+    "2024-09-18.md",
     "Закрепленные фильтры.md",
     "Изменение параметров formData.md",
-    "Таски.md",
     "Релизы.md",
-    "React.md",
-    "Superset.md",
+    "Таски.md",
+    "Фича с переключением вида графиков.md",
+    "Pasted image 20241113151547.png",
+    "waterfall.md",
+    "Untitled 2",
+    "1C.md",
     "Pasted image 20240815103709.png",
     "Pasted image 20240815103858.png",
     "Pasted image 20240815105246.png",
@@ -562,7 +573,13 @@
     "Pasted image 20240927151239.png",
     "Pasted image 20240927151336.png",
     "Untitled 1",
-    "Untitled.canvas",
-    "BUGS.md",
-    "Хук render component.md",
-    "Фича с переключением скользяще
+    "Фича с яндекс картами.md",
+    "images",
+    "2024-07-25.md",
+    "plugins",
+    "Untitled/Untitled.md",
+    "Untitled",
+    "superset_config_docker.py",
+    "Problems"
+  ]
+}
