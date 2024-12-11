@@ -1,0 +1,338 @@
+{
+  "main": {
+    "id": "82eb85c39a351135",
+    "type": "split",
+    "children": [
+      {
+        "id": "91a20e694efa8152",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d112e85e880e561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/Yandex maps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yandex maps"
+            }
+          },
+          {
+            "id": "eeec2f965f0bd802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Смена тега в git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Смена тега в git"
+            }
+          },
+          {
+            "id": "4edd21234ec975dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление IT проектами/Билет 25 - Анализ освоенного объема.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Билет 25 - Анализ освоенного объема"
+            }
+          },
+          {
+            "id": "81d784fafd77606c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление IT проектами/Билет 26 - качество проекта.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Билет 26 - качество проекта"
+            }
+          },
+          {
+            "id": "2e32dca3356fa12a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление IT проектами/Билет 27 - основные принципы управления качеством.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Билет 27 - основные принципы управления качеством"
+            }
+          },
+          {
+            "id": "a2343be2ea9f7266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление IT проектами/Билет 28 - процесс обеспечения качества проекта.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Билет 28 - процесс обеспечения качества проекта"
+            }
+          },
+          {
+            "id": "ec2e90d1cadc291b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление IT проектами/Билет 29 - Основные процессы управления ресурсами проекта.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Билет 29 - Основные процессы управления ресурсами проекта"
+            }
+          },
+          {
+            "id": "bb7f29f69e6c5e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление IT проектами/Билет 30 - Что необходимо учитывать при наборе команды проекта. Методы набора команды проекта.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Билет 30 - Что необходимо учитывать при наборе команды проекта. Методы набора команды проекта"
+            }
+          },
+          {
+            "id": "d5657f805f8b51ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление IT проектами/Билет 31 - Мотивация команды проекта (иерархия Маслоу, теория Герцберга).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Билет 31 - Мотивация команды проекта (иерархия Маслоу, теория Герцберга)"
+            }
+          },
+          {
+            "id": "0f0a91a7d8b528f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление IT проектами/Билет 32 - Стадии развития команды проекта.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Билет 32 - Стадии развития команды проекта"
+            }
+          },
+          {
+            "id": "ba28bfd7c9b25091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление IT проектами/Билет 33 - Конфликты и способы их разрешения. Методы предотвращения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Билет 33 - Конфликты и способы их разрешения. Методы предотвращения"
+            }
+          },
+          {
+            "id": "f4e0eaa0776d78d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление IT проектами/Билет 34 - Распространение информации. Коммуникативные сети.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Билет 34 - Распространение информации. Коммуникативные сети"
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd9c23b4465ca1c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b8bbc0318fba76e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d0c338fed12b1b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "b941e1bc60843e14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "d9024f594a148e91",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18cc35b730d7b601",
+    "type": "split",
+    "children": [
+      {
+        "id": "f51bb94f34408d7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74c9a7908b1b1392",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Смена тега в git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Смена тега в git"
+            }
+          },
+          {
+            "id": "9986e2d6fdaa4599",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Смена тега в git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Смена тега в git"
+            }
+          },
+          {
+            "id": "085b56b37eb20fcd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "45f333134e80c42a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Смена тега в git.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Смена тега в git"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "f4e0eaa0776d78d5",
+  "lastOpenFiles": [
+    "Управление IT проектами/Билет 33 - Конфликты и способы их разрешения. Методы предотвращения.md",
+    "Управление IT проектами/Билет 34 - Распространение информации. Коммуникативные сети.md",
+    "Управление IT проектами/Билет 32 - Стадии развития команды проекта.md",
+    "Управление IT проектами/Билет 31 - Мотивация команды проекта (иерархия Маслоу, теория Герцберга).md",
+    "Управление IT проектами/Билет 30 - Что необходимо учитывать при наборе команды проекта. Методы набора команды проекта.md",
+    "Управление IT проектами/Билет 25 - Анализ освоенного объема.md",
+    "Управление IT проектами/Билет 29 - Основные процессы управления ресурсами проекта.md",
+    "Управление IT проектами/Билет 28 - процесс обеспечения качества проекта.md",
+    "Управление IT проектами/Билет 27 - основные принципы управления качеством.md",
+    "Управление IT проектами/Билет 26 - качество проекта.md",
+    "Pasted image 20241211210136.png",
+    "Смена тега в git.md",
+    "Без названия",
+    "Управление IT проектами",
+    "obsidian/Yandex maps.md"
+  ]
+}
