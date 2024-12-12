@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be2ec7972cb2db77",
+            "id": "05650fedfacea0d9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "color of bars after cross-filtering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "color of bars after cross-filtering"
             }
           }
         ]
@@ -108,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-18.md",
+                "file": "color of bars after cross-filtering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-09-18"
+              "title": "Outgoing links from color of bars after cross-filtering"
             }
           },
           {
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "color of bars after cross-filtering.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of color of bars after cross-filtering"
             }
           },
           {
@@ -150,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,8 +173,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be2ec7972cb2db77",
+  "active": "1ac5f8e46fe726d6",
   "lastOpenFiles": [
+    "Управление IT проектами/Билет 34 - Распространение информации. Коммуникативные сети.md",
+    "Управление IT проектами/Билет 33 - Конфликты и способы их разрешения. Методы предотвращения.md",
+    "Управление IT проектами/Билет 32 - Стадии развития команды проекта.md",
+    "Управление IT проектами/Билет 31 - Мотивация команды проекта (иерархия Маслоу, теория Герцберга).md",
+    "Управление IT проектами/Билет 30 - Что необходимо учитывать при наборе команды проекта. Методы набора команды проекта.md",
+    "Управление IT проектами/Билет 29 - Основные процессы управления ресурсами проекта.md",
+    "Управление IT проектами/Билет 28 - процесс обеспечения качества проекта.md",
+    "Управление IT проектами/Билет 27 - основные принципы управления качеством.md",
+    "Управление IT проектами/Билет 26 - качество проекта.md",
+    "Управление IT проектами/Билет 25 - Анализ освоенного объема.md",
+    "Управление IT проектами",
+    "Pasted image 20241211210136.png",
     "Релизы.md",
     "Pasted image 20240927133933.png.md",
     "Pasted image 20240927151239.png.md",
@@ -189,23 +207,13 @@
     "React.md",
     "plugins/Stack feature.md",
     "plugins/BUG с date control.md",
-    "Problems/Problems.md",
-    "2024-11-06.md",
-    "2024-09-18.md",
-    "Закрепленные фильтры.md",
-    "Изменение параметров formData.md",
-    "Таски.md",
-    "Фича с переключением вида графиков.md",
     "Pasted image 20241113151547.png",
-    "waterfall.md",
     "Untitled 2",
-    "1C.md",
     "Pasted image 20240815103709.png",
     "Pasted image 20240815103858.png",
     "Pasted image 20240815105246.png",
     "Pasted image 20240927133855.png",
     "Pasted image 20240927133933.png",
-    "Pasted image 20240927151239.png",
     "Untitled 1",
     "images",
     "plugins",
