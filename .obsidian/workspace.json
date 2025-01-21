@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Запрос для получения датасета.md",
+                "file": "Yandex maps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Запрос для получения датасета"
+              "title": "Yandex maps"
+            }
+          },
+          {
+            "id": "5071b69112b682f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Запрос для получения датасета.md",
+                "file": "Untitled 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Запрос для получения датасета"
+              "title": "Outgoing links from Untitled 3"
             }
           },
           {
@@ -188,10 +202,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fe915a4856e3b67",
+  "active": "5071b69112b682f0",
   "lastOpenFiles": [
-    "color of bars after cross-filtering.md",
+    "Yandex maps.md",
+    "Untitled 3.md",
+    "Superset.md",
+    "Untitled 1.md",
+    "React.md",
     "Запрос для получения датасета.md",
+    "color of bars after cross-filtering.md",
     "Управление IT проектами/Билет 9 - Метод набегающей волны.md",
     "Управление IT проектами/Билет 25 - Анализ освоенного объема. Основные показатели.md",
     "Управление IT проектами/Билет 24 - методы и средства стоимостной оценки.md",
@@ -211,11 +230,6 @@
     "Управление IT проектами/Билет 10 - Руководство и управление работами проекта. За какие работы отвечает руководитель.md",
     "Управление IT проектами/Билет 41 - Agile. Манифест, принципы.md",
     "Управление IT проектами/Билет 40 роли и артефакты SCRUM.md",
-    "Управление IT проектами/Билет 39 - Модель Кеневин.md",
-    "Управление IT проектами/Билет 38 - Принципы бережливого производства.md",
-    "Управление IT проектами/Билет 37 - Стратегии реагирования на риски.md",
-    "Управление IT проектами/Билет 36 - Методы идентификации рисков.md",
-    "Управление IT проектами/Билет 35 - Основные процессы управления рисками.md",
     "Управление IT проектами",
     "Pasted image 20241211210136.png",
     "Pasted image 20241002101258.png",
