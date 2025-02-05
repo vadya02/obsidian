@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Untitled 4"
             }
+          },
+          {
+            "id": "92314ac53401f782",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -83,7 +95,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -155,12 +168,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 4"
+              "title": "Outgoing links"
             }
           },
           {
@@ -216,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1783bc6a24012b52",
+  "active": "92314ac53401f782",
   "lastOpenFiles": [
     "Pasted image 20250130075248.png",
     "Untitled 3.md",
