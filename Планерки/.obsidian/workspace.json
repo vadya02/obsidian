@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tasks"
+              "title": "Welcome"
             }
           }
         ],
@@ -209,7 +209,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b86c2b0e1aec094c",
+  "active": "7070f2c4e51b076f",
   "lastOpenFiles": [
     "tasks.md",
     "Welcome.md",
